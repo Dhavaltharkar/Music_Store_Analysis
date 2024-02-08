@@ -28,5 +28,3 @@
 ## Return your list ordered alphabetically by email starting with A
 
 <img src = "https://raw.githubusercontent.com/Dhavaltharkar/Music_Store_Analysis/main/Markdown/7.png">
-
-<img src = "https://raw.githubusercontent.com/Dhavaltharkar/Music_Store_Analysis/main/Markdown/7.png">
