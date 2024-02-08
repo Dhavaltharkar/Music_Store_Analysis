@@ -2,6 +2,8 @@
 
 <img src = "https://raw.githubusercontent.com/Dhavaltharkar/Music_Store_Analysis/main/Markdown/schema_diagram.png">
 
+## List of the tables in a schema called music_store_analysis.
+
 <img src = "https://raw.githubusercontent.com/Dhavaltharkar/Music_Store_Analysis/main/Markdown/1.png">
 
 ## Q1 What is the senior most employee based on job title?
